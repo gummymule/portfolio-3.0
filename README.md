@@ -1,3 +1,10 @@
+# My Personal Portfolio Website
+
+![portfolio website](https://github.com/muliasw12/portfolio-3.0/blob/main/portfolio.png?raw=true)
+
+Hi there! This is my portfolio website which contains several front end projects that I have made recently. 
+I had some trouble when deploying this website. Finally it works!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
