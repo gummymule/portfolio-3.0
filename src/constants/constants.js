@@ -28,7 +28,7 @@ export const projects = [
     },
     {
       title: 'Dashboard Admin',
-      description: "A dashboard admin website is a web-based platform that provides a centralized interface for managing, monitoring, and organizing various aspects of a business, organization, or project. It typically integrates data from multiple sources and presents it in a visual format that is easy to understand and navigate. The purpose of a dashboard admin website is to streamline the decision-making process and provide stakeholders with real-time insights into key performance indicators, operational metrics, and other important data. The background of a dashboard admin website project would include the specific requirements and goals of the project, the target audience, the available resources, and any constraints or limitations that need to be considered.",
+      description: "A dashboard admin website is a web-based platform that provides a centralized interface for managing, monitoring, and organizing various aspects of a business, organization, or project. It typically integrates data from multiple sources and presents it in a visual format that is easy to understand and navigate. The purpose of a dashboard admin website is to streamline the decision-making process and provide stakeholders with real-time insights into key performance indicators, operational metrics, and other important data.",
       image: '/images/dashboard-admin.png',
       tags: ['React', 'Tailwind CSS'],
       source: 'https://dashboard-admin-lilac.vercel.app/',
