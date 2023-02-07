@@ -27,12 +27,12 @@ export const projects = [
       id: 2,
     },
     {
-      title: 'Pricing Panel',
-      description: "in this project displays a price panel based on the desired category from personal, team and enterprise. Each category has its own advantages. This is my first project designing page using CSS",
-      image: '/images/pricing-panel.png',
-      tags: ['HTML', 'CSS'],
-      source: 'https://pricing-panel-two.vercel.app/',
-      visit: 'https://github.com/muliasw12/Pricing-Panel',
+      title: 'Dashboard Admin',
+      description: "A dashboard admin website is a web-based platform that provides a centralized interface for managing, monitoring, and organizing various aspects of a business, organization, or project. It typically integrates data from multiple sources and presents it in a visual format that is easy to understand and navigate. The purpose of a dashboard admin website is to streamline the decision-making process and provide stakeholders with real-time insights into key performance indicators, operational metrics, and other important data. The background of a dashboard admin website project would include the specific requirements and goals of the project, the target audience, the available resources, and any constraints or limitations that need to be considered.",
+      image: '/images/dashboard-admin.png',
+      tags: ['React', 'Tailwind CSS'],
+      source: 'https://dashboard-admin-lilac.vercel.app/',
+      visit: 'https://github.com/muliasw12/Dashboard-Admin',
       id: 3,
     },
   ];
