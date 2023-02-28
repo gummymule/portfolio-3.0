@@ -38,7 +38,7 @@ export const projects = [
     {
       title: 'Responsive e-commerce Product Page',
       description: "This is a solution to the E-commerce product page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. This project built with Semantic HTML5 markup, CSS custom properties, Flexbox, CSS Grid, and Mobile-first workflow",
-      image: '/images/dashboard-admin.png',
+      image: '/images/ecommerce-frontend-mentor.png',
       tags: ['HTML', 'CSS', 'JavaScript'],
       source: 'https://responsive-ecommerce-product-page.vercel.app/',
       visit: 'https://github.com/muliasw12/Responsive-ecommerce-product-page',
