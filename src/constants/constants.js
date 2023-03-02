@@ -44,6 +44,15 @@ export const projects = [
       visit: 'https://github.com/muliasw12/Responsive-ecommerce-product-page',
       id: 4,
     },
+    {
+      title: 'Shortly URL Landing Page',
+      description: "This is a solution to the Shortly URL landing page challenge on Frontend Mentor. This project integrate with the shrtcode URL shortening API and play with browser storage in this landing page. View the optimal layout for the site depending on their device's screen size. This page can be shorten any valid URL. See a list of their shortened links, even after refreshing the browser.",
+      image: '/images/shortly-url.png',
+      tags: ['HTML', 'CSS', 'JavaScript'],
+      source: 'https://url-shortening-api-landing-page-rouge.vercel.app/',
+      visit: 'https://github.com/muliasw12/URL-shortening-API-landing-page',
+      id: 5,
+    },
   ];
   
   export const TimeLineData = [
