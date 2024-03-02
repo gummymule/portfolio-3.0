@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've relevant skills programming with JavaScript, Python, MATLAB, SQL, HTML and CSS.
+      I've relevant skills programming with JavaScript, Typescript, Python, MATLAB, MySQL, PHP, HTML and CSS
     </SectionText>
     <List>
       <ListItem>
@@ -19,7 +19,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js and NEXT.js
+            React.js, Vue.js, Angular and NEXT.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,7 +31,7 @@ const Technologies = () =>  (
           <ListTitle>Programming Language</ListTitle>
           <ListParagraph>
             Experience with <br />
-            JavaScript, Python, and SQL
+            JavaScript, Typescript, PHP, Python, and SQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
