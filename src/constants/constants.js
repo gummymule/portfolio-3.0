@@ -1,20 +1,20 @@
 export const projects = [
     {
-      title: 'GPT-3 Website',
-      description: "Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. Given an initial text as prompt, it will produce text that continues the prompt.",
-        image: '/images/gpt3-01.png',
-        tags: ['React', 'JavaScript'],
-      source: 'https://gpt-3-website-beta.vercel.app/',
-      visit: 'https://github.com/muliasw12/GPT3-Website',
+      title: 'Car Showcase',
+      description: "A showcase displayed for several types of cars where the data used comes from an API. The website is built using Next.js TypeScript, and Tailwind CSS is used for styling.",
+        image: '/images/car-showcase.png',
+        tags: ['Next.js', 'Typescript', 'Tailwind CSS'],
+      source: 'https://car-showcase-tau-drab.vercel.app/',
+      visit: 'https://github.com/muliasw12/car-showcase',
       id: 0,
     },
     {
-      title: 'Gericht Restaurant',
-      description:"Technology that continues to develop makes food entrepreneurs more innovative in promoting their wares. One of them is by using the website. In this project I created a restaurant landing page using React.",
-      image: '/images/gericht-restaurant.png',
-      tags: ['React', 'JavaScript'],
-      source: 'https://gericht-restaurant-website-bay.vercel.app/',
-      visit: 'https://github.com/muliasw12/Gericht-Restaurant-Website',
+      title: 'Travel App Landing Page',
+      description:"Created responsive traveling application website using Typescript and Tailwind css",
+      image: '/images/travel-app.png',
+      tags: ['Next.js', 'Typescript', 'Tailwind CSS'],
+      source: 'https://travel-app-landing-page-six.vercel.app/',
+      visit: 'https://github.com/muliasw12/travel-app-landing-page',
       id: 1,
     },
     {
@@ -56,8 +56,8 @@ export const projects = [
   ];
   
   export const TimeLineData = [
-    { year: 2020, text: 'Worked as a Physics Tutor at Beta Belajar', },
     { year: 2021, text: 'Student Internship at KAIST', },
-    { year: 2022, text: 'Worked as a Teaching Assistant and Laboratory Assistant at ITB', },
-    { year: 2023, text: 'Front End Developer at Wistkey', },
+    { year: 2022, text: 'Graduated from Bandung Institute of Technology B.Sc of Physics', },
+    { year: 2023, text: 'Jr. Software Developer at Wistkey', },
+    { year: 2024, text: 'Full Stack Developer at BLKP Group', },
   ];
