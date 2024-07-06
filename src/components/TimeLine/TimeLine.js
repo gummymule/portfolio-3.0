@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        My Specialize is in magnetic and photonics simulation computing. To me, computer science simulation is more than technology. 
+        To me, computer science simulation is more than technology. 
         It is a powerful tool to ensure that can be achieved in an effective and efficient manner.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

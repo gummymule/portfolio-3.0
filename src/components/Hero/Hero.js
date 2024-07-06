@@ -13,9 +13,13 @@ const Hero = (props) => (
           Mulia's Portfolio Website
         </SectionTitle>
         <SectionText>
-          Hey there! My name is Mulia and I'm currently living in Bogor. I just graduated from Bandung Institute of Technology, majoring in Physics. Also, I enthusiast in software engineering and development.
+        Graduated from Bandung Institute of Technology, majoring in Physics. 
+        <br /> 
+        <br /> 
+        With over a year of experience as a Software Developer, I have honed my skills as a Frontend Engineer specializing in web development using React and 
+        proficient in Backend development with Laravel. 
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
     </Section>
   </>

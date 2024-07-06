@@ -35,29 +35,10 @@ export const projects = [
       visit: 'https://github.com/muliasw12/kanban-project',
       id: 3,
     },
-    {
-      title: 'Responsive e-commerce Product Page',
-      description: "This is a solution to the E-commerce product page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects. This project built with Semantic HTML5 markup, CSS custom properties, Flexbox, CSS Grid, and Mobile-first workflow",
-      image: '/images/ecommerce-frontend-mentor.png',
-      tags: ['HTML', 'CSS', 'JavaScript'],
-      source: 'https://responsive-ecommerce-product-page.vercel.app/',
-      visit: 'https://github.com/muliasw12/Responsive-ecommerce-product-page',
-      id: 4,
-    },
-    {
-      title: 'Shortly URL Landing Page',
-      description: "This is a solution to the Shortly URL landing page challenge on Frontend Mentor. This project integrate with the shrtcode URL shortening API and play with browser storage in this landing page. View the optimal layout for the site depending on their device's screen size. This page can be shorten any valid URL. See a list of their shortened links, even after refreshing the browser.",
-      image: '/images/shortly-url.png',
-      tags: ['HTML', 'CSS', 'JavaScript'],
-      source: 'https://url-shortening-api-landing-page-rouge.vercel.app/',
-      visit: 'https://github.com/muliasw12/URL-shortening-API-landing-page',
-      id: 5,
-    },
   ];
   
   export const TimeLineData = [
-    { year: 2021, text: 'Student Internship at KAIST', },
-    { year: 2022, text: 'Graduated from Bandung Institute of Technology B.Sc of Physics', },
-    { year: 2023, text: 'Jr. Software Developer at Wistkey', },
-    { year: 2024, text: 'Full Stack Developer at BLKP Group', },
+    { year: 2022, text: 'Jr. Software Developer at Wistkey', },
+    { year: 2023, text: 'Full Stack Developer at BLKP Group', },
+    { year: 2024, text: 'Frontend Engineer at PT. Bank Rakyat Indonesia, Tbk', },
   ];
