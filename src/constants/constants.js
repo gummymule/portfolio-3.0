@@ -1,11 +1,11 @@
 export const projects = [
     {
-      title: 'Car Showcase',
-      description: "A showcase displayed for several types of cars where the data used comes from an API. The website is built using Next.js TypeScript, and Tailwind CSS is used for styling.",
-        image: '/images/car-showcase.png',
-        tags: ['Next.js', 'Typescript', 'Tailwind CSS'],
-      source: 'https://car-showcase-tau-drab.vercel.app/',
-      visit: 'https://github.com/muliasw12/car-showcase',
+      title: 'Health Care Management App',
+      description: "A fullstack application for manage appointment patient record. This website has been built using Next.js TypeScript, Tailwind CSS is used for styling, and Appwrite is used as a database.",
+        image: '/images/health-care.png',
+        tags: ['Next.js', 'Typescript', 'Tailwind CSS', 'Appwrite.io'],
+      source: 'https://health-care-management-sage.vercel.app/',
+      visit: 'https://github.com/muliasw12/health-care-management',
       id: 0,
     },
     {
