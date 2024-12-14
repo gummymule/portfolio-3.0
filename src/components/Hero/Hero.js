@@ -16,8 +16,9 @@ const Hero = (props) => (
         Graduated from Bandung Institute of Technology, majoring in Physics. 
         <br /> 
         <br /> 
-        With over a year of experience as a Software Developer, I have honed my skills as a Frontend Engineer specializing in web development using React and 
-        proficient in Backend development with Laravel. 
+        With over a year of experience as a Software Developer, 
+        I'm passionate creating seamless and efficient user experiences, 
+        and continually strive to enhance my skills in both frontend and backend technologies.
         </SectionText>
         {/* <Button onClick={props.handleClick}>Learn More</Button> */}
       </LeftSection>
