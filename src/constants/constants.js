@@ -18,12 +18,12 @@ export const projects = [
       id: 1,
     },
     {
-      title: 'Galleria Slideshow Site',
-      description: "The Galleria Slideshow Site is a stunning and interactive web application built using Vue.js, a progressive JavaScript framework. This project aims to create a visually appealing and seamless slideshow site where users can showcase and explore captivating image galleries in an engaging and user-friendly manner.",
-        image: '/images/gallery.png',
-        tags: ['Vue js', 'JavaScript', 'HTML'],
-      source: 'https://galleria-slideshow-site-ochre.vercel.app/',
-      visit: 'https://github.com/muliasw12/galleria-slideshow-site',
+      title: 'Medium Clone',
+      description: "A Medium Clone project built with Laravel, featuring user authentication, article publishing with a WYSIWYG editor, tagging, categories, and a user-friendly interface for managing and exploring blog content.",
+        image: '/images/medium.png',
+        tags: ['Laravel', 'Tailwind CSS', 'Alpine.js'],
+      source: 'https://medium-clone.com',
+      visit: 'https://github.com/gummymule/medium-clone',
       id: 2,
     },
     {
